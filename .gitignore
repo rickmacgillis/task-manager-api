@@ -1,3 +1,3 @@
 config/*
-!config/dev.env.sample
+!config/env.sample
 node_modules/
