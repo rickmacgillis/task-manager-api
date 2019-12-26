@@ -1,0 +1,3 @@
+config/*
+!config/dev.env.sample
+node_modules/
